@@ -1,6 +1,6 @@
 = Spark source code = 
 
-We use Git instead of Subversion for managing the source code, for several reasons.
+We use Git instead of Subversion for managing the source code, <a href="http://whygitisbetterthanx.com/">for several reasons</a>.
 
 == Read Access == 
 
