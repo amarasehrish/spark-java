@@ -15,8 +15,9 @@ Or see this project's github pages:
 You can browse the source code there, and even download a zip with the source code!
 
 To learn more about Git, see for example http://github.com/.
-Commit Access
-Via github
+
+== Commit Access ==
+=== Via github ===
 
 Anybody can join in!
 
