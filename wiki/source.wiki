@@ -28,6 +28,7 @@ And anybody can submit code through github!
 2. Do your changes in your clone of the project,
 
 3. then click "pull request" on your repository to tell "perwendel" there are changes to bring in.
-Sending patches
+
+=== Sending patches ===
 
 You may of course also send patches directly through the Issue tracker or mailing list Spark Developers. 
