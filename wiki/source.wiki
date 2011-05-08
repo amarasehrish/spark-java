@@ -23,7 +23,7 @@ Anybody can join in!
 
 And anybody can submit code through github!
 
-1. Go to http://github.com/perwendel/spark and fork the project. Forking a source code repository is sooo easy on github!
+1. Go to http://github.com/perwendel/spark and fork the project. Forking a source code repository is very easy on github!
 
 2. Do your changes in your clone of the project,
 
